@@ -1,0 +1,68 @@
+.breadcrumb {
+    background-color: transparent;
+    font-family: "avenir";
+    color: white;
+    margin-left: 25px;
+}
+
+.prev-page {
+    color: #398ef3 !important;
+}
+
+.prev-page:hover {
+    background-color: #00489f;
+}
+
+.accordion {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.about-history-body {
+    font-family: "avenir";
+    font-size: 0.9em;
+    margin-top: 15px;
+}
+
+.accordion>.card>.card-header {
+    background-color: #752222;
+    padding: 2px;
+}
+
+.accordian-btn {
+    color: white;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.accordian-btn:hover {
+    background: #373433;
+    color: white !important;
+    text-decoration: none;
+}
+
+.about-carousel-outer {
+    margin: 30px 40px 30px 40px;
+    padding: 15px 65px 15px 65px;
+    background-color: #752222;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #2d3135;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    margin-bottom: 200px;
+}
+
+.about-video {
+    padding-top: 15px;
+    background-color: #752222;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.about-video-text {
+    font-family: "avenir";
+    font-size: 1em;
+    color: white;
+}
